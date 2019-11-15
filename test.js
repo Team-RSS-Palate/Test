@@ -1,1 +1,1 @@
-console.log(HI) WHATttt trykkkkkk
+console.log(HI) 
